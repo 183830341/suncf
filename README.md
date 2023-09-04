@@ -1,2 +1,2 @@
 # suncf
-springboot+vue项目实践
+vue3+scrpit-type项目
